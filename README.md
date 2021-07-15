@@ -19,5 +19,5 @@ In package.json replace the existing value of key name: “scripts” to:
 ### Step 7:  
 Host for FREE. For that, you need to create a new repository in GitHub and Pushed the local repo to remote GitHub.  
 After you pushed the local repo to origin master. Open the URL:   
-https://my-json-server.typicode.com/```<your-github-username>```/```<your-repo-name>```  
+https://my-json-server.typicode.com/```your-github-username```/```your-repo-name```  
 My URL: https://my-json-server.typicode.com/Firthir/datadat  
